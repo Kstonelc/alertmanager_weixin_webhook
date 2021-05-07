@@ -6,7 +6,7 @@ alertmanager的webhook，对接企业微信机器人
 - kube_prometheus
 
 # build
-docker build -t harbor.dreame.com/zhangchunlin/flask-alert-webhook:v0.1.11  -f Dockerfile .
+docker build -t flask-alert-webhook:v0.1.11  -f Dockerfile .
 
 # config
 ```shell script
