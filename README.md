@@ -1,0 +1,2 @@
+# alertmanager_weixin_webhook
+alertmanager对接企业微信机器人webhook
